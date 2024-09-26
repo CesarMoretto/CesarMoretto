@@ -1,7 +1,7 @@
 ## Hey!! I'm Cesar Moretto
 
-- 🐱‍👤Java Programming Analyst
-- 🌱 I’m currently learning UX/UI and GameMaker
+- 🐱‍👤Full Stack Developer
+- 🌱 I’m currently learning everything
 - ⚡ Fun fact: Me.
   
 
